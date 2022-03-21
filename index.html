@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Binge</title>
+  <script src="https://kit.fontawesome.com/63fc93d67b.js" crossorigin="anonymous"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <header class="header">
+    <div class="container">
+      <a class="logoLink" href="/">
+        <img src="assets/img/youtube.png" alt="Logo Binge" width="70" height="70" class="logo" />
+      </a>
+      <nav>
+        <button id="saiba">Tendi nada</button>
+      </nav>
+      <button id="btn-cart">
+        <i class="fa-solid fa-clipboard-list"></i>
+        <span class="btn-cart-badge"></span>
+      </button>
+    </div>
+  </header>
+  <main class="container">
+    <h1></h1>
+    <div id="groups-root">
+      <i class="fa-solid fa-spinner products-loading"></i>
+    </div>
+  </main>
+  <footer class="footer">
+    <div class="column1">
+      <div class="stream">
+        <a href="https://www.primevideo.com/" target="_blank">Amazon prime video</a>
+      </div>
+      <div class="stream">
+        <a href="https://tv.apple.com/" target="_blank">Apple TV+</a>
+      </div>
+      <div class="stream">
+        <a href="https://www.disneyplus.com/" target="_blank">Diney+</a>
+      </div>
+      <div class="stream">
+        <a href="https://globoplay.globo.com/" target="_blank">GloboPlay</a>
+      </div>
+      <div class="stream">
+        <a href="https://play.google.com/" target="_blank">Google Play</a>
+      </div>
+      <div class="stream">
+        <a href="https://www.hbomax.com/" target="_blank">HBO Max</a>
+      </div>
+    </div>
+    <div class="column2">
+      <div class="stream">
+        <a href="https://netflix.com" target="_blank">Netflix</a>
+      </div>
+      <div class="stream">
+        <a href="https://netflix.com" target="_blank">Paramount</a>
+      </div>
+      <div class="stream">
+        <a href="https://www.starz.com/" target="_blank">Starz</a>
+      </div>
+      <div class="stream">
+        <a href="https://www.starplus.com/" target="_blank">Star+</a>
+      </div>
+      <div class="stream">
+        <a href="https://www.paramountplus.com/" target="_blank">Paramount+</a>
+      </div>
+      <div class="stream">
+        <a href="https://youtube.com" target="_blank">YouTube</a>
+      </div>
+    </div>
+  </footer>
+  <div class="help-sidebar">
+    <button id="btn-close-help">
+      <i class="fa-solid fa-xmark"></i>
+    </button>
+    <div id="help-guide">
+      <i class="fa-solid fa-question"></i>
+      <span class="h2 saiba-text"> 
+        <p>Organize sua maratona audiovisual</p>
+        <ol>
+        <li>Saiba tudo que foi lançado e onde foi lançado;</li>
+        <li>Selecione tudo que você quer assistir.</li>
+        <li>Compartilhe com quem vai assistir junto com você!</li>
+        </ol>
+      </span>
+    </div>
+  </div>
+  <aside class="cart-sidebar">
+    <button id="btn-close-cart">
+      <i class="fa-solid fa-xmark"></i>
+    </button>
+    <div id="empty-cart">
+      <i class="fa-solid fa-clipboard-list"></i>
+      <p class="h2">Ué, não vai assistir nada?!</p>
+    </div>
+    <div id="cart-with-products">
+      <p class="h2">Recaptulando a lista:</p>
+      <ul>
+      </ul>
+      <div class="cart-total">
+        <p class="h2">Quantidade</p>
+        <p>1</p>
+      </div>
+      <button class="btn btn-outline" id="btn-add-more">Manda mais que tá pouco!</button>
+      <a class="btn btn-main" href="enviar-lista.html">Enviar lista pro mozão!</a>
+    </div>
+  </aside>
+  <script src="assets/js/scripts.js"></script>
+</body>
+</html>

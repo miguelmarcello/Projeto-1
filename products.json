@@ -1,0 +1,113 @@
+{
+    "groups": [
+      {
+        "id": "43860f85-a873-4e20-b173-36d3198bb881",
+        "name": "Séries",
+        "products": [
+          {
+            "id": "d18ab5f1-08b9-4db7-b05e-c3d53c35958c",
+            "name": "Fleabag",
+            "image": "assets/img/fleabag.jpg",
+            "description": "Uma jovem adulta lidando com problemas quase universais sob o ponto de vista feminino.",
+            "price": "Dramédia"
+          },
+          {
+            "id": "4519b494-42d5-4a19-a268-ab373472665c",
+            "name": "Euphoria",
+            "image": "assets/img/euphoria.jpg",
+            "description": "Um grupo de adolescentes passa por diferentes experiência de drogas, sexo, busca pela identidade e traumas",
+            "price": "Drama"
+          },
+          {
+            "id": "f6b0f72a-ce7a-483b-882b-312bf30916cd",
+            "name": "Modern Love",
+            "image": "assets/img/modern-love.jpg",
+            "description": "O amor em suas diversas formas e cada história é inspirada por um artigo pessoal real baseada em uma coluna famosa do jornal New York Times de mesmo nome.",
+            "price": "Dramédia"
+          },
+          {
+            "id": "91b9b877-d496-49b9-ba57-b946fd454c95",
+            "name": "This is us",
+            "image": "assets/img/this-is-us.jpg",
+            "description": "A história de vida dos Pearson, em momentos de alegria, desgosto e revelações.",
+            "price": "Dramédia"
+          }
+        ]
+      },
+      {
+        "id": "5973f204-1870-4060-9698-36bd6bd905bf",
+        "name": "Longas",
+        "products": [
+          {
+            "id": "cd04e5b7-2554-4f56-a652-9d8a1205563d",
+            "name": "Spencer",
+            "image": "assets/img/spencer.jpg",
+            "description": "A crise existencial da princesa Diana e se passa em um fim de semana em Sandringham House, no Natal de 1991, nos relatando a sua decisão em se separar.",
+            "price": "Drama"
+          },
+          {
+            "id": "e9f7997b-e223-44b0-b0ba-cca5058251b8",
+            "name": "Batman",
+            "image": "assets/img/batman.jpg",
+            "description": "Durante uma de suas investigações, Bruce acaba envolvendo a si mesmo e Gordon em um jogo de gato e rato, ao investigar uma série de maquinações sádicas.",
+            "price": "Ação"
+          },
+          {
+            "id": "5b20770d-46a2-4d60-aade-6e5c4ddeb73c",
+            "name": "House of gucci",
+            "image": "assets/img/house-of-gucci.jpg",
+            "description": "O casamento e o divórcio turbulento entre Patrizia e Maurizio Gucci leva a um assassinato.",
+            "price": "Drama"
+          },
+          {
+            "id": "1b0c89ec-30c2-4145-ac2a-5e2c1ae3ccf5",
+            "name": "Eternos",
+            "image": "assets/img/eternos.jpg",
+            "description": "Os Eternos são uma raça de seres imortais que viveram durante a antiguidade da Terra, moldando sua história e suas civilizações enquanto batalhavam os malignos Deviantes.",
+            "price": "Fantasia"
+          },
+          {
+            "id": "8fb33c4e-0b87-47c9-b085-87dfd4189b3a",
+            "name": "Mother",
+            "image": "assets/img/mother.jpeg",
+            "description": "A vida conjugal tem muitas semelhanças com a história da humanidade.",
+            "price": "Terror psicológico"
+          }
+        ]
+      },
+      {
+        "id": "2a386e1d-c44c-4822-8b7f-397ec7f18c26",
+        "name": "Curtas",
+        "products": [
+          {
+            "id": "306872c9-352f-45a9-aef2-b034ef07d23d",
+            "name": "Ilha das flores",
+            "image": "assets/img/ilha-das-flores.jpg",
+            "description": "O que humanos tem em comum com tomates e porcos?",
+            "price": "Documentário"
+          },
+          {
+            "id": "35ad3380-556a-48ed-892f-b12b25b52a03",
+            "name": "Paperman",
+            "image": "assets/img/papermen.jpg",
+            "description": "Ele está a um avião de papel de distância dela.",
+            "price": "Romance"
+          },
+          {
+            "id": "1ecccf5b-e2c2-4e51-a2f2-1b8aa3b73dd7",
+            "name": "Logorama",
+            "image": "assets/img/logorama.jpg",
+            "description": "Caos urbano é a nova lei do mercado.",
+            "price": "Ação"
+          },
+          {
+            "id": "c0dad15f-6bcb-4143-a804-e7ebbf267167",
+            "name": "Socorro nobre",
+            "image": "assets/img/socorro-nobre.jpg",
+            "description": "Uma presidiária em Salvador decide escrever uma carta para um artista sobrevivente do Holocausto.",
+            "price": "Documentário"
+          }
+        ]
+      }
+    ]
+  }
